@@ -6,7 +6,7 @@
 
 
 .me{
-    background-image: linear-gradient(rgba(142, 147, 206, 0.75),rgba(141, 158, 194, 0.75)), url('https://i.pinimg.com/originals/73/70/00/737000df4b8e04719d38b1b4537ebad2.jpg');
+    background-image:  url('https://i.pinimg.com/originals/73/70/00/737000df4b8e04719d38b1b4537ebad2.jpg');
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -23,8 +23,9 @@
 .title h1
 {
     text-align: center;
-    color: white;
-    padding-top: 0px;
+    color: rich brown;
+    padding-top: 5px;
+    padding-left: 45px;
     text-align: top;
     font-style: italic;
     font-weight: 1200;
@@ -41,12 +42,11 @@ li{
 }
 .headtitle-links
 {
-    font-size: medium;
-    font-style: normal;
+    font-size: x-large;
+    font-style: italic;
     display: flex;
     margin-left: 72rem;
     margin-top: 18px;
-    margin: 5px 0;
 }
 
 .list{
@@ -58,9 +58,9 @@ li{
 .head{
     color: whitesmoke;
     font-family:  'cursive';
-    font-size: x-large;
+    font-size: xx-large;
     font-style: 'cursive';
-    font-weight: 400;
+    font-weight: 600;
     font-display: swap;
     text-align: center;
 }
@@ -69,7 +69,7 @@ li{
 {
     font-size: x-large;
     font-style: oblique;
-    color: orange;
+    color: rgb(220, 224, 226);
     margin-top: 10rem;
     text-align: center;
     display: inline;
@@ -80,9 +80,10 @@ li{
     align-items: center;
     font-family:'cursive', sans-serif;
     font-style: italic;
-    font-size: x-small;
+    font-size: 15px;
     color:whitesmoke;
-    margin: bottom 50rem;;
+    margin: bottom 50rem;
+    padding: 10px 80px;
 }
 #hi
 {
@@ -90,5 +91,4 @@ li{
     font-size: xx-large;
     color: rgb(148, 33, 33);
 }
-
 

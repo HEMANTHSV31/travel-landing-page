@@ -64,3 +64,18 @@ button:hover {
     font-style: 'cursive';
     font-weight: 400;
 }
+.headtitle-links
+{
+    font-size: x-large;
+    font-style: italic;
+    display: flex;
+    margin-left: 72rem;
+    margin-top: 18px;
+}
+li{
+    list-style: none;
+}
+.list{
+    margin-right: 15px;
+    margin-top: 5px;
+}
